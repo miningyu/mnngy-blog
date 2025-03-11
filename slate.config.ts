@@ -7,17 +7,17 @@ export default defineConfig({
   lang: 'en-US',
   site: 'https://slate-blog-demo.vercel.app',
   avatar: '/avatar.png',
-  title: 'Slate Blog',
-  description: 'Pure thoughts, simple stories.',
+  title: '민인규의 Blog',
+  description: '관심있는 것을 기록합니다.',
   lastModified: true,
   readTime: true,
   footer: {
-    copyright: '© 2025 Slate Design',
+    copyright: '',
   },
   socialLinks: [
     {
       icon: 'github',
-      link: 'https://github.com/SlateDesign/slate-blog'
+      link: 'https://github.com/miningyu'
     },
 ]
 });
